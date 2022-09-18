@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(197, 245, 237);
+}
+
+.title {
+    margin: 3%;
+    text-align: center;
+}
+
+.menu {
+    background-color: rgba(113, 130, 118, 0.797);
+    padding: 1%;
+    border-radius: 25px;
+}
+
+.elem {
+    margin: 2%;
+    background-color: rgba(113, 130, 118, 0.797);
+    border-radius: 10px;
+}
+
+.profile {
+    border: 5px solid #021a40;
+}
